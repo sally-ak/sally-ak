@@ -10,7 +10,6 @@
 ### 🌱 Currently Learning
 - Mobile App Development with Flutter & React Native  
 - AR/VR & Game Development with Unity & C#  
-- Clean Architecture, Firebase & Cloud Functions  
 - DevOps (CI/CD, Docker, GitHub Actions)
 
 ---
@@ -69,25 +68,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sally-ak&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sally-ak&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sally-ak&layout=compact&theme=radical" height="150" />
-</p>
-
----
 
 ### 📫 Contact Me
 
 - 📧 Email: s.kj.kj.19@email.com  
 - 💬 LinkedIn: [linkedin.com/in/salma-a-763a3426b](https://linkedin.com/in/salma-a-763a3426b)
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sally-ak&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
