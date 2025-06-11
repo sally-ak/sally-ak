@@ -71,6 +71,6 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: s.kj.kj.19@email.com  
+- 📧 Email: s.kj.kj.19@gmail.com  
 - 💬 LinkedIn: [linkedin.com/in/salma-a-763a3426b](https://linkedin.com/in/salma-a-763a3426b)
 
